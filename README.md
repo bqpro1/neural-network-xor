@@ -26,5 +26,4 @@ A comprehensive implementation of the XOR problem using Multi-Layer Perceptron (
 • Teachers demonstrating NN concepts
 • Anyone interested in understanding XOR implementation
 
-🔗 Try it:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Neural-Network-XOR/blob/main/simple_NN.ipynb)
+🔗 Try it: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bqpro1/neural-network-xor/blob/main/simple_NN.ipynb)
