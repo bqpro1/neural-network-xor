@@ -30,3 +30,6 @@ var/
 .env
 venv/
 ENV/
+
+# macOS
+.DS_Store
