@@ -38,6 +38,8 @@ To jest prosty projekt pokazujący jak działa sieć neuronowa na przykładzie p
 
 📺 Ten projekt jest częścią kanału [Anatomia AI na YouTube](https://www.youtube.com/@anatomiaAI) - sprawdź moje filmy, aby w pełni skorzystać z tego repozytorium!
 
+📝 [Matematyka sieci neuronowych (PDF)](https://github.com/bqpro1/neural-network-xor/blob/main/matematyka_sieci.pdf) - szczegółowe wyjaśnienie matematycznych podstaw opisanych w tym projekcie.
+
 ### Jak zacząć pracę z tym projektem?
 1. Kliknij przycisk "Open In Colab" powyżej - otworzy to projekt w Google Colab, czyli platformie internetowej, która pozwala uruchamiać kod bez instalowania czegokolwiek na komputerze.
 2. W Google Colab kliknij "Runtime" (lub "Środowisko wykonawcze") w górnym menu, a następnie "Run all" (lub "Uruchom wszystko").
